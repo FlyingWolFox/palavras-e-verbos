@@ -2,7 +2,7 @@
 
 O arquivo `palavras.txt` neste repositório contém mais de 320.000 palavras do idioma português brasileiro (obtidas pela [lista de palavras do corretor ortográfico LibreOffice](https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pt_BR/pt_BR.dic)).
 
-O arquivo `verbos.txt` contém 5379 verbos do idioma português brasileiro, sendo 5000 os verbos mais usados da lingua (obtidos em [conjugação.com.br](conjugacao.com.br/verbos-populares/)) e  578 do portugues medieval (obtidos no  [site do Corpus Informatizado do Português Medieval](https://cipm.fcsh.unl.pt/gencontent.jsp?id=27)) (números sujeitos a alteração pois ainda não foram contadas duplicadas)
+O arquivo `verbos.txt` contém 5379 verbos do idioma português brasileiro, sendo 5000 os verbos mais usados da lingua (obtidos em [conjugação.com.br](conjugacao.com.br/verbos-populares/)) e  578 do portugues medieval (obtidos no  [site do Corpus Informatizado do Português Medieval](https://cipm.fcsh.unl.pt/gencontent.jsp?id=27)), que, retirando duplicadas dá um total de 5161 (5000 + 161)
 
 O dicionário foi processado pelo programa `converter.py` para:
 
